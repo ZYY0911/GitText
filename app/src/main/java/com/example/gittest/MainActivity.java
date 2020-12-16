@@ -19,8 +19,7 @@ public class MainActivity extends AppCompatActivity {
         Log.i("aa", "onCreate: ");
         Log.i("aa", "onCreate: ");
         Log.i("aa", "onCreate: ");
-    }
-            setContentView(R.layout.activity_main);
         Toast.makeText(this, "", Toast.LENGTH_SHORT).show();
+    }
 
 }
